@@ -1,6 +1,6 @@
-## SolucionMaraton
-# Jhon Malagon
+# SolucionMaraton
+Jhon Malagon
 
-# Jorge Gomez
+Jorge Gomez
 
-# Brayan Parra
+Brayan Parra
